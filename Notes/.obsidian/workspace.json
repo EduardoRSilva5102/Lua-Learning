@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PARTE 1 - Funções Básicas/Booleans.md",
+                "file": "PARTE 1 - Funções Básicas/Funções.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Booleans"
+              "title": "Funções"
             }
           }
         ],
@@ -224,11 +224,13 @@
   },
   "active": "26fdc85c8d4f18df",
   "lastOpenFiles": [
-    "PARTE 1 - Funções Básicas/PARTE 1 - Funções Básicas.md",
+    "PARTE 1 - Funções Básicas.md",
+    "PARTE 1 - Funções Básicas/Funções.md",
     "PARTE 1 - Funções Básicas/Booleans.md",
     "PARTE 1 - Funções Básicas/Operações com Strings.md",
     "PARTE 1 - Funções Básicas/Tipos de Variáveis.md",
     "Lua - Kristal.md",
+    "PARTE 1 - Funções Básicas/PARTE 1 - Funções Básicas.md",
     "PARTE 1 - Funções Básicas",
     "crie um link.md"
   ]
